@@ -1,0 +1,21 @@
+{
+  "name": "server_node_js",
+  "version": "1.0.0",
+  "description": "A repository to place our node projects",
+  "main": "student_tutor_API/server5.js",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Hi"
+  },
+  "keywords": [
+    "Kermit"
+  ],
+  "author": "Kermit",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
